@@ -13,7 +13,8 @@ If the output is same, it means that our instructions and simulation is correct(
 Next, we debug the instruction sets using the command:
 ![image](https://github.com/Jeevithagowda21/VSD_Squadron_Mini/assets/142243440/a338d2b2-fbce-4093-b4c6-09516c787690)
 
-![image](https://github.com/Jeevithagowda21/VSD_Squadron_Mini/assets/142243440/feee5b20-0bff-406c-ac41-a67d588d216a)
+![image](https://github.com/Jeevithagowda21/VSD_Squadron_Mini/assets/142243440/f5e29c11-975b-4cdc-b52a-842ee0414afd)
+
 
 
 
