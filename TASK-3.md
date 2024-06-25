@@ -9,6 +9,10 @@ By Running this Command we can verify our output with the RISC-V gcc,
 If the output is same, it means that our instructions and simulation is correct(i.e verified) 
 ![Screenshot 2024-06-25 162533](https://github.com/Jeevithagowda21/VSD_Squadron_Mini/assets/142243440/a4fbceac-99c9-4502-b09b-037fbc33560c)
 
+THe Assembly Language Code :
+![image](https://github.com/Jeevithagowda21/VSD_Squadron_Mini/assets/142243440/a7305171-865c-406e-8f40-8e93279c7504)
+
+
 
 Next, we debug the instruction sets using the command:
 ![image](https://github.com/Jeevithagowda21/VSD_Squadron_Mini/assets/142243440/a338d2b2-fbce-4093-b4c6-09516c787690)
