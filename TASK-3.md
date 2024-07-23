@@ -1,5 +1,5 @@
-TASK-3
-SPIKE Simulation And Debug.
+
+***SPIKE Simulation And Debug.***
 
 Spike, is the RISC-V Instruction Set Simulator (ISS).
 Spike simulates a RISC-V processor, providing a platform for running RISC-V binaries and testing software before deploying it on actual hardware.
@@ -19,17 +19,17 @@ Next, we debug the instruction sets using the command:
 
 ![image](https://github.com/Jeevithagowda21/VSD_Squadron_Mini/assets/142243440/f5e29c11-975b-4cdc-b52a-842ee0414afd)
 
-reg - It is used to find the content of register 
+**reg** - It is used to find the content of register 
 
-AUIPC(Add Upper Immediate to PC) - It is an Assembly instruction in RISC-V architecture. It is is used to add a 20-bit immediate value, shifted left by 12 bits, to the program counter (PC) and store the result in the specified register.
+**AUIPC(Add Upper Immediate to PC)** - It is an Assembly instruction in RISC-V architecture. It is is used to add a 20-bit immediate value, shifted left by 12 bits, to the program counter (PC) and store the result in the specified register.
 
-ADDI(Add Immediate) - It is an Assembly instruction in RISC-V architecture. It is used to add a signed immediate value to the value in a register and store the result in another register. 
+**ADDI(Add Immediate)** - It is an Assembly instruction in RISC-V architecture. It is used to add a signed immediate value to the value in a register and store the result in another register. 
 For Example : if the instruction is a2,a5,0x123, Where a2 is the Destination register, where the result of the addition will be stored. a5 is the Source register, containing the value to which the immediate will be added. 0x123 is the Signed immediate value (12 bits), which is added to the value in source regiter.
 
 
 
 
-END
+
 
 
 
