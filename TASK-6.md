@@ -1,7 +1,7 @@
-***TASK-6***
+
 ### Overall implementation of Project.
 ###
-### Project - Sequential Traffic Light Controller.
+### Traffic Flow Controller - Sequential Traffic Light Controller.
 ### 
 ### 
 ***Overview Of a Project***
