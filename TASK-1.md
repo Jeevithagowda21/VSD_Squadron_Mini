@@ -1,4 +1,4 @@
-VSD Squadron  Mini Internship
+######       VSDSquadron  Mini Internship
 
 
 VSD Squadron Mini RISC-V development board is a RISC-V development Board.
@@ -6,7 +6,7 @@ It contains 32-bit RISC-V core. It has 16KB of flash memory, 2KB SRAM and operat
 The board has 15 GPIO pins and communication protocols such as I2C, SPI, and USART.
 
 
-TASK-1
+
 1. C-Code Testing
    Here, we have compiled a simple c-code to find sum of n numbers to test the gcc compiler.
    And leafpad is a text editor that i have used.
